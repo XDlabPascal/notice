@@ -10,3 +10,5 @@ https://XDLabpascal.github.io/notice/tv.html
 
 
 https://XDLabpascal.github.io/notice/ElicaNikolaTeslaFitBL_A_60.pdf
+
+https://XDLabpascal.github.io/notice/plaque.pdf
