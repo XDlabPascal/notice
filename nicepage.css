@@ -46613,8 +46613,7 @@ a.u-link.u-text-hover-color-var:hover {
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
     width: auto;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 20px 0;
   }
 }
 
