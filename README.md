@@ -1,9 +1,15 @@
 QR Codes ok : 
+
 https://XDLabpascal.github.io/notice/clim.html
+
 https://XDLabpascal.github.io/notice/frigo.html
+
 https://XDLabpascal.github.io/notice/internet.html
+
 https://XDLabpascal.github.io/notice/plaque.html
+
 https://XDLabpascal.github.io/notice/lavevaisselle.html
+
 
 Pas opérationnelles :
 https://XDLabpascal.github.io/notice/four.html
